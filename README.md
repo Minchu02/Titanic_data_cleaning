@@ -19,7 +19,7 @@ This project loads the Titanic dataset (`titanic.csv`), cleans missing values, e
 ### Result
 - boxplot before removing fare outliners
 - boxplot after removing fare outliners
-- you get a folder 'titanic_cleaned.csv
+- you get a folder 'titanic_cleaned.csv'
 ## what script does:
 -Fills missing Age with median
 -Fills missing Embarked with mode
